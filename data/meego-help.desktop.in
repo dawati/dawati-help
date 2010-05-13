@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+_Name=Meego Help
+Type=Application
+Icon=moblin-logo-icon
+Terminal=false
+Exec=meego-help
+Categories=Utility;
