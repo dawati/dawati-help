@@ -1,5 +1,5 @@
 AC_PREREQ([2.59])
-AC_INIT([meego-help], [0.0.1])
+AC_INIT([meego-help], [0.0.2])
 
 AM_INIT_AUTOMAKE([AC_PACKAGE_NAME], [AC_PACKAGE_VERSION])
 AC_CONFIG_MACRO_DIR([m4])
