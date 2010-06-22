@@ -14,6 +14,6 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 
 #: ../data/meego-help.desktop.in.h:1
-msgid "Meego Help"
+msgid "MeeGo Help"
 msgstr "Pomoc MeeGo"
 

@@ -18,6 +18,6 @@ msgstr ""
 "X-Poedit-Language: asturian\n"
 
 #: ../data/meego-help.desktop.in.h:1
-msgid "Meego Help"
+msgid "MeeGo Help"
 msgstr "Aide de MeeGo"
 

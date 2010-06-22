@@ -20,5 +20,5 @@ msgstr ""
 "X-Poedit-Country: UNITED KINGDOM\n"
 
 #: ../data/meego-help.desktop.in.h:1
-msgid "Meego Help"
+msgid "MeeGo Help"
 msgstr "MeeGo Help"
