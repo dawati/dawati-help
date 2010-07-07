@@ -1,0 +1,23 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: meego-help\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-02 20:49+0000\n"
+"PO-Revision-Date: 2010-07-07 17:35+0300\n"
+"Last-Translator: محمد الحرقان <malham1@gmail.com>\n"
+"Language-Team: Softastur <alministradores@softastur.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: asturian\n"
+
+#: ../data/meego-help.desktop.in.h:1
+msgid "MeeGo Help"
+msgstr "مساعدة ميجو"
+
