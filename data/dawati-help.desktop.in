@@ -2,7 +2,7 @@
 Version=1.0
 _Name=Gawati Help
 Type=Application
-Icon=moblin-logo-icon
+Icon=dawati-logo-icon
 Terminal=false
 Exec=dawati-help
 Categories=Utility;

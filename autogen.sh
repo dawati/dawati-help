@@ -10,7 +10,7 @@ REQUIRED_AUTOMAKE_VERSION=1.10
 (test -f $srcdir/configure.ac \
   && test -d $srcdir/src) || {
     echo -n "**Error**: Directory "\`$srcdir\'" does not look like the"
-    echo " top-level moblin-panel-status directory"
+    echo " top-level dawati-panel-status directory"
     exit 1
 }
 
