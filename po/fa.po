@@ -17,7 +17,7 @@ msgstr ""
 "X-Poedit-Language: Persian\n"
 "X-Poedit-Country: Iran\n"
 
-#: ../data/meego-help.desktop.in.h:1
-msgid "MeeGo Help"
+#: ../data/dawati-help.desktop.in.h:1
+msgid "Dawati Help"
 msgstr "کمک می‌گو"
 

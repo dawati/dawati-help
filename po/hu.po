@@ -16,9 +16,9 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Lokalize 1.1\n"
 
-#: ../data/meego-help.desktop.in.h:1
-msgid "MeeGo Help"
-msgstr "MeeGo súgó"
+#: ../data/dawati-help.desktop.in.h:1
+msgid "Dawati Help"
+msgstr "Dawati súgó"
 
 #~ msgid "Date/Time"
 #~ msgstr "Dátum/idő"

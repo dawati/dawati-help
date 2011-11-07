@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
-_Name=MeeGo Help
+_Name=Gawati Help
 Type=Application
 Icon=moblin-logo-icon
 Terminal=false
-Exec=meego-help
+Exec=dawati-help
 Categories=Utility;

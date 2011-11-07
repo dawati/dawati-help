@@ -1,11 +1,11 @@
 desktopdir = $(datadir)/applications
 desktop_in_files = \
-	meego-help.desktop.in \
+	dawati-help.desktop.in \
 	$(NULL)
 desktop_DATA = $(desktop_in_files:.desktop.in=.desktop)
 @INTLTOOL_DESKTOP_RULE@
 
-htmldir = $(datadir)/meego-help
+htmldir = $(datadir)/dawati-help
 
 install-data-local:
 	@$(NORMAL_INSTALL)

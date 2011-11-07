@@ -15,7 +15,7 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Generator: Lokalize 1.0\n"
 
-#: ../data/meego-help.desktop.in.h:1
-msgid "MeeGo Help"
-msgstr "Nápověda pro MeeGo"
+#: ../data/dawati-help.desktop.in.h:1
+msgid "Dawati Help"
+msgstr "Nápověda pro Dawati"
 

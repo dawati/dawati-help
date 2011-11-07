@@ -2,7 +2,7 @@
 #include <gio/gio.h>
 
 
-#define ONLINE_URL "http://help.meego.com/"
+#define ONLINE_URL "http://help.dawati.com/"
 #define OFFLINE_URL "file://"PKG_DATA_DIR"/index.html"
 
 static GMainLoop *loop;

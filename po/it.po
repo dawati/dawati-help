@@ -13,7 +13,7 @@ msgstr ""
 "X-Poedit-Language: Italian\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
-#: ../data/meego-help.desktop.in.h:1
-msgid "MeeGo Help"
-msgstr "Help di MeeGo"
+#: ../data/dawati-help.desktop.in.h:1
+msgid "Dawati Help"
+msgstr "Help di Dawati"
 

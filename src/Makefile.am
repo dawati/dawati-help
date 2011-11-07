@@ -1,7 +1,7 @@
-bin_PROGRAMS = meego-help
+bin_PROGRAMS = dawati-help
 
-meego_help_CFLAGS = $(DBUS_GLIB_CFLAGS) $(GIO_CFLAGS) \
+dawati_help_CFLAGS = $(DBUS_GLIB_CFLAGS) $(GIO_CFLAGS) \
 		    -DPKG_DATA_DIR=\"$(pkgdatadir)\"
-meego_help_SOURCES = meego-help.c
-meego_help_LDFLAGS = $(DBUS_GLIB_LIBS) $(GIO_LIBS)
+dawati_help_SOURCES = dawati-help.c
+dawati_help_LDFLAGS = $(DBUS_GLIB_LIBS) $(GIO_LIBS)
 

@@ -13,7 +13,7 @@ msgstr ""
 "X-Poedit-Language: Korean\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
-#: ../data/meego-help.desktop.in.h:1
-msgid "MeeGo Help"
-msgstr "MeeGo 도움말"
+#: ../data/dawati-help.desktop.in.h:1
+msgid "Dawati Help"
+msgstr "Dawati 도움말"
 

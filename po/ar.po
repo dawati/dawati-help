@@ -5,7 +5,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: meego-help\n"
+"Project-Id-Version: dawati-help\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-07-02 20:49+0000\n"
 "PO-Revision-Date: 2010-07-07 17:35+0300\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-Language: asturian\n"
 
-#: ../data/meego-help.desktop.in.h:1
-msgid "MeeGo Help"
+#: ../data/dawati-help.desktop.in.h:1
+msgid "Dawati Help"
 msgstr "مساعدة ميجو"
 
